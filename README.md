@@ -4,7 +4,7 @@ class swizzy():
     self.name = "Maksim"
     self.username = "swizzy"
     self.location = "Lviv, Ukraine"
-    self.discord = "swizzy#7777"
+    self.discord = "swizzy#0936"
     self.telegram = "swizzyer"
 
   def __str__(self):
